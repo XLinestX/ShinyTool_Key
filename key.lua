@@ -1,1 +1,2 @@
-Code = "ShinyTool_NoKey"
+Access = true
+Key = "ShinyTool_NoKey"
