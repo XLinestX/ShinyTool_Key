@@ -1,2 +1,2 @@
-Access = true
+Access = false
 Key = "ShinyTool_NoKey"
